@@ -28,9 +28,9 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - HTML y CSS(#built-with)
+-[Build with](#built-with)
 - [Features](#features)
-- @EverEase(#contact)
+- [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
@@ -51,9 +51,8 @@ Para hacer esta copia de la página 404 NOT FOUND, he empezado en HTML escribien
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- HTML
+- CSS
 
 ## Features
 
