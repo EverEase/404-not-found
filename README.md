@@ -1,6 +1,10 @@
 <!-- Please update value in the {}  -->
 
+<<<<<<< HEAD
 <h1 align="center">404 NOT FOUND</h1>
+=======
+<h1 align="center">{404 NOT FOUND }</h1>
+>>>>>>> 7b21c8b8f2889ecbb1305443f9b0862779a0c840
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -27,18 +31,16 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+  - HTML y CSS(#built-with)
 - [Features](#features)
-- [Contact](#contact)
+- @EverEase(#contact)
 - [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Para hacer esta copia de la página 404 NOT FOUND, he empezado en HTML escribiendo la estructura. de la página linkeando las fuentes de google y añadiendole clases a header, main y footer. A la hora de hacer el CSS me he guidao de la imagen proporcionada en Figma para intentar que quede mas o menos igual. He utilizado un display grid para el body y un display flex para el main. Para hacer el responsive he utilizado un media query max-width 780px y adaptado el CSS para que funcione.
 
 <img src= 404-not-found-master\404page.png>
 <img src= 404-not-found-master\Responsive.png>
