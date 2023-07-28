@@ -1,10 +1,7 @@
 <!-- Please update value in the {}  -->
 
-<<<<<<< HEAD
 <h1 align="center">404 NOT FOUND</h1>
-=======
-<h1 align="center">{404 NOT FOUND }</h1>
->>>>>>> 7b21c8b8f2889ecbb1305443f9b0862779a0c840
+
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
